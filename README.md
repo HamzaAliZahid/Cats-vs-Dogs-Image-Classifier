@@ -3,10 +3,10 @@ Cats vs. Dogs Image Classifier
 This project is an image classification model that can tell whether an image is of a cat or a dog. It’s built using TensorFlow and uses transfer learning on Google’s MobileNetV2 to achieve high accuracy.
 _______________________________________________________________________________________________________________
 Features:
-    High accuracy - Over 90% on good-quality images of cats and dogs.
-    Easy-to-use UI - Built with Streamlit for quick predictions.
-    Confidence score - See how confident the model is in its prediction.
-    Supported image formats: PNG, JPG, JPEG.
+    High accuracy - Over 90% on good-quality images of cats and dogs.\n
+    Easy-to-use UI - Built with Streamlit for quick predictions.\n
+    Confidence score - See how confident the model is in its prediction.\n
+    Supported image formats: PNG, JPG, JPEG.\n
 _______________________________________________________________________________________________________________
 How to Run
 
